@@ -1,0 +1,4 @@
+name: grimCore
+version: '1.0'
+main: org.network.dg32z.grimacpatcher.GrimCore
+api-version: '1.16'

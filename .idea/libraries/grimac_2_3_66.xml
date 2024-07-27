@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="grimac-2.3.66">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../Grim-JoinFixed/build/libs/grimac-2.3.66.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
