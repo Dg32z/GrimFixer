@@ -1,3 +1,5 @@
 这会修复某些插件在和GrimAC一起运行下丢数据的问题
 这个问题应该是来自PacketEvent,大神插件非得调用一次才“注入”
 然后就会卡PlayerJoinEvent 
+
+此插件已经无效于最新版本的PacketEvent，似乎已经被pe修复
